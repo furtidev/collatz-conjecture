@@ -15,4 +15,4 @@ This goes on and on until it eventually reaches 1.
 - Wikipedia's article on [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
 
 ## To-do 
-- [] Maybe add a graph?
+- [ ] Maybe add a graph?
