@@ -13,3 +13,6 @@ This goes on and on until it eventually reaches 1.
 ## Resources
 - Veritasium's [video](https://www.youtube.com/watch?v=094y1Z2wpJg) about **The Simplest Math Problem No One Can Solve**.
 - Wikipedia's article on [Collatz Conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture).
+
+## To-do 
+- [] Maybe add a graph?
